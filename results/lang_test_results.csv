@@ -1,0 +1,17 @@
+archivo,idioma_detectado,idioma_esperado,resultado,fecha
+home_es.png,ERROR,es,ERROR,2025-05-21 17:16:43
+home_en.png,ERROR,en,ERROR,2025-05-21 17:16:50
+home_it.png,ERROR,it,ERROR,2025-05-21 17:16:55
+home_es.png,ERROR,es,ERROR,2025-05-21 17:18:45
+home_en.png,ERROR,en,ERROR,2025-05-21 17:18:51
+home_it.png,ERROR,it,ERROR,2025-05-21 17:18:56
+home_es.png,id,es,FAIL,2025-05-21 17:27:15
+home_es.png,id,es,FAIL,2025-05-21 17:33:09
+home_es.png,id,es,FAIL,2025-05-21 17:33:58
+home_es.png,id,es,FAIL,2025-05-21 17:35:01
+home_es.png,id,es,FAIL,2025-05-21 17:38:27
+home_es.png,es,es,OK,2025-05-21 17:42:37
+home_es.png,es,es,FAIL,2025-05-21 17:46:08
+home_es.png,es,es,FAIL,2025-05-21 17:54:27
+home_es.png,es,es,FAIL,2025-05-21 17:55:38
+home_es.png,es,es,FAIL,2025-05-21 17:57:18

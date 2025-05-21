@@ -1,0 +1,26 @@
+{
+  "languages": [
+    {
+      "code": "es",
+      "locale": "es-ES",
+      "expected_keywords": [
+        "nada",
+        "bienestar muscolar",
+        "Gestiona el dolor",
+        "forma autonoma",
+        "recuparcion segura",
+        "Iniciar sesién con Google"
+      ]
+    },
+    {
+      "code": "en",
+      "locale": "en-US",
+      "expected_keywords": ["Welcome", "Next", "Login"]
+    },
+    {
+      "code": "it",
+      "locale": "it-IT",
+      "expected_keywords": ["Benvenuto", "Avanti", "Accedi"]
+    }
+  ]
+}
