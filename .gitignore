@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración personal
+.idea/
+.vscode/
+
+# Resultados de ejecución
+screenshots/
+results/
+
+# Archivos temporales
+*.log
+*.tmp
